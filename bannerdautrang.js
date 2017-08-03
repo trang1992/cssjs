@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='Căn-hộ-xanh-DL-Financial-Center-Q2-478629472492046/?ref=bookmarks' target='_blank'><img src='https://2.bp.blogspot.com/-572AqGBJl68/WYLfJdjS-7I/AAAAAAAAAaw/hH4bqp22tVwGlsg7pG4X78z-nCBMKoCVACLcBGAs/s640/thumb-92F-tongquanduan%252815%2529.jpg' width='500px'/><br/>Căn hộ xanh diamond lotus quận 2</a>. liên hệ: 0901968683. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/Căn-hộ-xanh-DL-Financial-Center-Q2-478629472492046' target='_blank'><img src='https://2.bp.blogspot.com/-572AqGBJl68/WYLfJdjS-7I/AAAAAAAAAaw/hH4bqp22tVwGlsg7pG4X78z-nCBMKoCVACLcBGAs/s640/thumb-92F-tongquanduan%252815%2529.jpg' width='500px'/><br/>Căn hộ xanh diamond lotus quận 2</a>. liên hệ: 0901968683. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
